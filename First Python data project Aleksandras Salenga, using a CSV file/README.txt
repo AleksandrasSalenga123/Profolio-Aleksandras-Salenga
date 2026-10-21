@@ -1,8 +1,6 @@
-Patient Data Terminal
+Patient Data Terminal:
 
-A simple data project that gives the user a Python terminal where they can import a medical CSV data file, clean it and visualise the data.
-
-Features
+This is a simple data project that gives the user a Python terminal where they can import a medical CSV data file, clean it and visualise the data. It features:
 
 Loading a CSV file by typing its file name. The program keeps asking until it finds a valid file.
 
