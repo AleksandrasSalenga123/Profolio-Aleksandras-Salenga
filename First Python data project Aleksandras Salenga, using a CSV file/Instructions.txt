@@ -1,0 +1,14 @@
+1. Requirements:
+
+
+This was made on Visual Studio using Python 3.9.13, this is the recommended version to be used when using the project. It is also recommended you use Windows. This project requires Matplotlib and Pandas to operate. 
+Ensure you install. One way of doing so is opening a Visual Studio terminal and typing "py -m pip install pandas" and "py -m pip install matplotlib" to install these. You must also have the CSV file in the same folder
+as the project.
+
+
+2. Instructions:
+
+Running the program:
+To start, run the Python program with Matplotlib and Pandas installed. If done correctly, on starting up, you are asked for a file name. When this happens, type "healthcare_patient_data.csv". The program will inform
+you if this is done successfully and upon doing so it will open the main menu. Upon the start of the menu, you can input "1" to "6" to choose an option. To exit, input 6. It is recommended you view the data frame and summary, 
+clean it, view the data frame again and then visualise the data.
